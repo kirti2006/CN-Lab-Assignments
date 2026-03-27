@@ -5,7 +5,7 @@ This repository contains lab assignments for the Computer Networks course. All e
 ---
 
 ## 📁 Repository Structure
-
+```
 CN-Lab-Assignments/
 ├── Assignment1/
 │   ├── exp1_topologies.pkt
@@ -20,7 +20,7 @@ CN-Lab-Assignments/
 │   ├── README.md
 │
 ├── report_exp.pdf  (Combined Lab File)
-
+```
 ---
 
 ## 📌 Assignment 1 – Basic Network Topologies
