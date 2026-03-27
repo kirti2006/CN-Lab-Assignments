@@ -8,18 +8,18 @@ This repository contains lab assignments for the Computer Networks course. All e
 
 CN-Lab-Assignments/
 ├── Assignment1/
-│   ├── exp1_topologies.pkt
-│   ├── report_exp1.pdf
-│   ├── output_exp1.txt
-│   ├── README.md
+│ ├── exp1_topologies.pkt
+│ ├── report_exp1.pdf
+│ ├── output_exp1.txt
+│ ├── README.md
 │
 ├── Assignment2/
-│   ├── exp2_packetflow.pkt
-│   ├── report_exp2.pdf
-│   ├── output_exp2.txt
-│   ├── README.md
+│ ├── exp2_packetflow.pkt
+│ ├── report_exp2.pdf
+│ ├── output_exp2.txt
+│ ├── README.md
 │
-├── report_exp.pdf
+├── report_exp.pdf (Combined Lab File)
 
 ---
 
