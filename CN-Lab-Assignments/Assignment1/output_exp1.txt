@@ -1,0 +1,37 @@
+EXPERIMENT 1 – BASIC NETWORK TOPOLOGIES
+
+-----------------------------------
+TASK 1: STAR TOPOLOGY
+Ping from PC0 to PC1 – Successful
+Ping from PC0 to PC2 – Successful
+Ping from PC0 to PC3 – Successful
+
+Observation:
+All devices communicated through switch successfully.
+Switch is single point of failure.
+
+-----------------------------------
+TASK 2: HUB TOPOLOGY
+Ping successful.
+
+Observation:
+Hub broadcasts data to all ports.
+More collisions observed.
+Lower performance than switch.
+
+-----------------------------------
+TASK 3: RING-LIKE TOPOLOGY
+Ping from PC0 to PC3 – Successful.
+
+Observation:
+Switches connected in loop.
+STP blocked one link.
+Alternate path available.
+
+-----------------------------------
+TASK 4: FAILURE TEST
+After disconnecting one link, ping still successful.
+
+Observation:
+Network recovered using alternate path.
+Better fault tolerance than star topology.
