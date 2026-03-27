@@ -19,7 +19,7 @@ CN-Lab-Assignments/
 │   ├── output_exp2.txt
 │   ├── README.md
 │
-├── report_exp.pdf  (Combined Lab File)
+├── report_exp.pdf
 
 ---
 
