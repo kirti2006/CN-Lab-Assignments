@@ -4,6 +4,14 @@ This repository contains lab assignments for the Computer Networks course. All e
 
 ---
 
+## 👨‍🎓 Student Details
+Name: Kirti
+Course: B.Tech CSE (3rd Year)
+Subject: CN Lab
+Roll Number: 2301010165
+
+---
+
 ## 📁 Repository Structure
 ```
 CN-Lab-Assignments/
