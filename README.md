@@ -28,7 +28,6 @@ CN-Lab-Assignments/
 │   ├── output_exp2.txt
 │   ├── README.md
 │
-├── report_exp.pdf  (Combined Lab File)
 ```
 ---
 
@@ -64,7 +63,6 @@ CN-Lab-Assignments/
 - Experiment reports (.pdf)
 - Observation files (.txt)
 - README files for each assignment
-- Combined lab report (report_exp.pdf)
 
 ---
 
